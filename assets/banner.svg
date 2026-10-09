@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 335" width="1200" height="335" role="img" aria-label="Rafael Batista — Software Developer, AI and Automation">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1226"/><stop offset=".54" stop-color="#112644"/><stop offset="1" stop-color="#0A152B"/></linearGradient>
+<linearGradient id="stripe" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#24D0E8"/><stop offset=".55" stop-color="#478AFF"/><stop offset="1" stop-color="#9977FF"/></linearGradient>
+<linearGradient id="chips" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#263E66"/><stop offset="1" stop-color="#182A50"/></linearGradient>
+<radialGradient id="halo"><stop stop-color="#2A80AE" stop-opacity=".27"/><stop offset="1" stop-color="#2379A8" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="31" height="31" patternUnits="userSpaceOnUse"><path d="M31 0 L0 0 L0 31" fill="none" stroke="#91BDF2" stroke-opacity=".055"/></pattern>
+</defs>
+<rect width="1200" height="335" rx="18" fill="url(#bg)"/><rect width="1200" height="335" rx="18" fill="url(#grid)"/>
+<circle cx="1014" cy="160" r="245" fill="url(#halo)"/>
+<path d="M0 330 H1200" stroke="url(#stripe)" stroke-width="8"/>
+<path d="M38 47 H58 M38 47 V60" fill="none" stroke="#3FD5E8" stroke-width="3" stroke-linecap="round"/>
+<rect x="70" y="34" width="191" height="30" rx="15" fill="#193853" stroke="#3FA1C7" stroke-opacity=".55"/>
+<circle cx="88" cy="49" r="4" fill="#42E9D0"/>
+<text x="101" y="54" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="2" font-weight="bold" fill="#BAD7E5">DEVELOPER PROFILE</text>
+<text x="67" y="150" font-family="Arial,Helvetica,sans-serif" font-size="78" font-weight="bold" letter-spacing="-2" fill="#F5F8FF">Rafael Batista</text>
+<rect x="70" y="177" width="54" height="5" rx="2" fill="#35D4E8"/><rect x="132" y="177" width="22" height="5" rx="2" fill="#8E7DFF"/>
+<text x="69" y="219" font-family="Arial,Helvetica,sans-serif" font-size="26" font-weight="bold" fill="#C7D9E9">Software Development <tspan fill="#54DBE9">·</tspan> AI <tspan fill="#54DBE9">·</tspan> Automation</text>
+<text x="70" y="257" font-family="Arial,Helvetica,sans-serif" font-size="20" fill="#8FAFC7">Backend systems  /  Semiconductor tooling  /  Data platforms</text>
+<circle cx="77" cy="299" r="5" fill="#45E6B8"/><text x="91" y="305" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#B5CFE0">Panama · Building useful, reliable software</text>
+<g fill="none" stroke="#4A92CF" stroke-opacity=".2" stroke-width="2">
+<path d="M825 0 V30 L780 65 M845 0 V48 L805 83 M865 0 V66 L830 101 M885 0 V84 L855 119 M905 0 V102 L880 137 M925 0 V30 L905 65 M945 0 V48 L930 83 M965 0 V66 L955 101 M985 0 V84 L980 119 M1005 0 V102 L1005 137"/>
+<path d="M840 280 H900 V250 M1080 280 H1150 V220 M800 157 H874 M1068 70 H1142 V44"/></g>
+<g transform="translate(994 161)">
+<circle r="142" fill="none" stroke="#4487D2" stroke-opacity=".16" stroke-width="1.5" stroke-dasharray="5 9"/>
+<circle r="104" fill="none" stroke="#41D6E2" stroke-opacity=".3" stroke-width="1.5"/>
+<path d="M-82 -80 L-5 -123 L77 -76 L77 23 L-5 72 L-82 22 Z" fill="#091D3C" stroke="#3A83D4" stroke-width="2"/>
+<path d="M-70 -68 L-4 -108 L64 -68 L64 16 L-4 57 L-70 16 Z" fill="url(#chips)" stroke="#2CAFC4" stroke-opacity=".65"/>
+<rect x="-41" y="-45" width="77" height="70" fill="#0D2448" stroke="#59DDF0" stroke-width="2"/>
+<path d="M-26 -30 H20 V11 H-26 Z" fill="none" stroke="#A0B6FF" stroke-width="1.8"/>
+<path d="M-18 -20 H12 M-18 -10 H12 M-18 0 H12" fill="none" stroke="#5E8FDF" stroke-width="2.5"/>
+<g stroke="#5BD9E7" stroke-width="2.5" stroke-linecap="round"><path d="M-44 -26 H-56 M-44 -6 H-56 M-44 14 H-56 M39 -26 H51 M39 -6 H51 M39 14 H51 M-18 -49 V-60 M6 -49 V-60 M-18 28 V39 M6 28 V39"/></g>
+<g fill="#4FE3DF"><circle cx="-103" cy="-50" r="5"/><circle cx="100" cy="-58" r="5"/><circle cx="104" cy="49" r="5"/><circle cx="-88" cy="78" r="5"/></g>
+<g stroke="#5C92D5" fill="none" stroke-width="2"><path d="M-79 -43 H-100 L-103 -50 M78 -58 H100 M74 46 H102 M-67 49 L-88 78"/></g>
+</g></svg>
