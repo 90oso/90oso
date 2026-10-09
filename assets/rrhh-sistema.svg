@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 220" width="640" height="220" role="img" aria-label="TalentHub B2B project">
+<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101C32"/><stop offset="1" stop-color="#173354"/></linearGradient><pattern id="p" width="29" height="29" patternUnits="userSpaceOnUse"><path d="M29 0H0V29" fill="none" stroke="#E4F0FF" stroke-opacity=".043"/></pattern></defs>
+<rect width="640" height="220" rx="15" fill="url(#b)"/><rect width="640" height="220" fill="url(#p)"/>
+<rect x="27" y="29" width="5" height="162" rx="2" fill="#C9A0FF"/>
+<text x="48" y="53" font-family="Arial,Helvetica,sans-serif" font-size="15" fill="#C9A0FF" letter-spacing="2" font-weight="bold">WEB  /  FULL STACK</text>
+<text x="47" y="107" font-family="Arial,Helvetica,sans-serif" font-size="33" fill="#FFFFFF" letter-spacing="-.4" font-weight="bold">TalentHub B2B</text>
+<text x="48" y="144" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#B3C8DE">HR workflows · roles · Supabase</text>
+<path d="M48 176 H282" stroke="#C9A0FF" stroke-opacity=".5" stroke-width="2"/><circle cx="295" cy="176" r="4" fill="#C9A0FF"/>
+<g transform="translate(475 43)" fill="none" stroke="#B9A8FF" stroke-width="2.7"><circle cx="61" cy="26" r="23" fill="#2E3361"/><path d="M16 98 Q20 62 61 62 Q102 62 106 98" fill="#2A3162"/><circle cx="-5" cy="98" r="16"/><circle cx="125" cy="98" r="16"/><path d="M-30 141 Q-30 118 -5 118 Q20 118 20 141 M100 141 Q100 118 125 118 Q150 118 150 141"/><path d="M61 96 V128 H34 M61 128 H87" stroke="#62D9E1"/><circle cx="61" cy="128" r="5" fill="#62D9E1" stroke="none"/></g></svg>
