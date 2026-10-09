@@ -10,7 +10,7 @@
 
   **Software Developer · AI & Automation · Backend Engineering**
 
-  <sub>Based in Panama 🇵🇦 · Interested in remote, part-time and project-based opportunities</sub>
+  <sub>Based in Panama 🇵🇦 · Interested in remote and project-based opportunities</sub>
 
 </div>
 
