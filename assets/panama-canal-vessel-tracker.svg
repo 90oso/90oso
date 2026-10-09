@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 220" width="640" height="220" role="img" aria-label="Vessel Tracker project">
+<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101C32"/><stop offset="1" stop-color="#173354"/></linearGradient><pattern id="p" width="29" height="29" patternUnits="userSpaceOnUse"><path d="M29 0H0V29" fill="none" stroke="#E4F0FF" stroke-opacity=".043"/></pattern></defs>
+<rect width="640" height="220" rx="15" fill="url(#b)"/><rect width="640" height="220" fill="url(#p)"/>
+<rect x="27" y="29" width="5" height="162" rx="2" fill="#6DCAFF"/>
+<text x="48" y="53" font-family="Arial,Helvetica,sans-serif" font-size="15" fill="#6DCAFF" letter-spacing="2" font-weight="bold">DATA  /  GEOSPATIAL</text>
+<text x="47" y="107" font-family="Arial,Helvetica,sans-serif" font-size="33" fill="#FFFFFF" letter-spacing="-.4" font-weight="bold">Vessel Tracker</text>
+<text x="48" y="144" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#B3C8DE">AIS · PostGIS · dashboard</text>
+<path d="M48 176 H282" stroke="#6DCAFF" stroke-opacity=".5" stroke-width="2"/><circle cx="295" cy="176" r="4" fill="#6DCAFF"/>
+<g transform="translate(437 39)" fill="none" stroke="#5FCAF1" stroke-width="2.7"><path d="M1 114 Q45 83 101 112 T173 105 M1 130 Q45 99 101 128 T173 121" stroke-opacity=".7"/><path d="M28 81 L148 81 L121 111 L56 111 Z" fill="#1F4A6E"/><path d="M68 51 H112 V81 H68 Z" fill="#24415C"/><path d="M83 27 V50 M47 49 H138 M121 34 V81"/><circle cx="28" cy="44" r="4" fill="#62E6FF"/><circle cx="160" cy="64" r="4" fill="#62E6FF"/><path d="M28 44 L47 49 M160 64 L138 49" stroke-dasharray="5 5"/></g></svg>
