@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 220" width="640" height="220" role="img" aria-label="KLayout + MAGIC project">
+<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101C32"/><stop offset="1" stop-color="#173354"/></linearGradient><pattern id="p" width="29" height="29" patternUnits="userSpaceOnUse"><path d="M29 0H0V29" fill="none" stroke="#E4F0FF" stroke-opacity=".043"/></pattern></defs>
+<rect width="640" height="220" rx="15" fill="url(#b)"/><rect width="640" height="220" fill="url(#p)"/>
+<rect x="27" y="29" width="5" height="162" rx="2" fill="#9C98FF"/>
+<text x="48" y="53" font-family="Arial,Helvetica,sans-serif" font-size="15" fill="#9C98FF" letter-spacing="2" font-weight="bold">EDA  /  AUTOMATION</text>
+<text x="47" y="107" font-family="Arial,Helvetica,sans-serif" font-size="33" fill="#FFFFFF" letter-spacing="-.4" font-weight="bold">KLayout + MAGIC</text>
+<text x="48" y="144" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#B3C8DE">Parasitic extraction · SPICE</text>
+<path d="M48 176 H282" stroke="#9C98FF" stroke-opacity=".5" stroke-width="2"/><circle cx="295" cy="176" r="4" fill="#9C98FF"/>
+<g transform="translate(480 75)" fill="none" stroke="#81A3FC" stroke-width="3"><rect x="-3" y="-15" width="132" height="128" rx="12" fill="#1A3152"/><path d="M12 -15 V-27 M12 113 V125 M42 -15 V-27 M42 113 V125 M72 -15 V-27 M72 113 V125 M102 -15 V-27 M102 113 V125 M-15 9 H-27 M129 9 H141 M-15 39 H-27 M129 39 H141 M-15 69 H-27 M129 69 H141 M-15 99 H-27 M129 99 H141"/><rect x="19" y="10" width="85" height="77" rx="6" stroke="#5DF6DE"/><path d="M30 27 H93 M30 43 H80 M30 59 H95 M30 75 H62" stroke="#578ABF"/><circle cx="78" cy="75" r="7" fill="#69EFDB" stroke="none"/></g></svg>
